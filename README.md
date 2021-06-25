@@ -1,2 +1,2 @@
-# cos-store-clone
+# cos-store
 cos store page cloning
